@@ -96,6 +96,13 @@ brew install ssh-copy-id
 brew install tree
 brew install vbindiff
 brew install zopfli
+brew install md5deep
+brew install xxhash
+
+# Install casked software
+brew install --cask visual-studio-code
+brew install --cask amethyst
+brew install sizeup
 
 # Remove outdated versions from the cellar.
 brew cleanup
