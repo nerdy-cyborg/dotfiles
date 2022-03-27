@@ -100,7 +100,7 @@ brew install md5deep
 brew install xxhash
 brew install tailscale
 brew install sizeup
-
+brew install seaweedfs
 
 # Install casked software
 brew install --cask visual-studio-code
